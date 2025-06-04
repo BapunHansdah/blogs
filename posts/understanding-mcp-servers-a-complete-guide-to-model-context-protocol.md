@@ -1,7 +1,7 @@
 ---
 title: "Understanding MCP Servers: A Complete Guide to Model Context Protocol"
 description: "MCP servers – the crucial components that bridge the gap between AI models and the vast array of external resources they need to access."
-date: "2024-01-15"
+date: "2025-05-04"
 author: "Unifill AI"
 tags: ["mcp","model context protocol","mcp protocol","mcp ecosystem","mcp servers"]
 ---
