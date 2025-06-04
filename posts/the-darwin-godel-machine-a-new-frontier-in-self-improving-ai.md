@@ -18,13 +18,13 @@ To address the limitations of the original Gödel Machine, researchers have deve
 
 The Darwin Gödel Machine functions through a cyclical process:
 
-1. **Self-Modification**: The DGM analyzes its own codebase and proposes modifications aimed at improving performance.
+**Self-Modification**: The DGM analyzes its own codebase and proposes modifications aimed at improving performance.
 
-2. **Empirical Evaluation**: These modifications are tested against established coding benchmarks, such as SWE-bench and Polyglot, to assess their effectiveness.
+**Empirical Evaluation**: These modifications are tested against established coding benchmarks, such as SWE-bench and Polyglot, to assess their effectiveness.
 
-3. **Selection and Retention**: Beneficial changes are retained and integrated into the system, while ineffective ones are discarded.
+**Selection and Retention**: Beneficial changes are retained and integrated into the system, while ineffective ones are discarded.
 
-4. **Archive Expansion**: The DGM maintains an archive of diverse agent versions, facilitating open-ended exploration and preventing stagnation in local optima .
+**Archive Expansion**: The DGM maintains an archive of diverse agent versions, facilitating open-ended exploration and preventing stagnation in local optima .
 
 ## Performance and Implications
 
@@ -36,11 +36,11 @@ The implications of the DGM extend beyond coding tasks. By demonstrating a pract
 
 Despite its promising capabilities, the DGM faces several challenges:
 
-* **Stability**: Ensuring that self-modifications do not compromise the system's integrity is paramount.
+**Stability**: Ensuring that self-modifications do not compromise the system's integrity is paramount.
 
-* **Safety**: Implementing safeguards to prevent harmful behaviors or unintended consequences is essential.
+**Safety**: Implementing safeguards to prevent harmful behaviors or unintended consequences is essential.
 
-* **Computational Resources**: The iterative nature of the DGM's process demands significant computational power, which may limit its scalability.
+**Computational Resources**: The iterative nature of the DGM's process demands significant computational power, which may limit its scalability.
 
 Addressing these challenges will be crucial for the broader adoption and application of self-improving AI systems like the DGM.
 
@@ -52,14 +52,14 @@ The Darwin Gödel Machine signifies a pivotal step toward realizing self-improvi
 
 **References:**
 
-* The Darwin Gödel Machine: AI that improves itself by rewriting its own code
+The Darwin Gödel Machine: AI that improves itself by rewriting its own code
 
-* Open-Ended Evolution of Self-Improving Agents
+Open-Ended Evolution of Self-Improving Agents
 
-* AI that can improve itself - Richard Cornelius Suwandi
+AI that can improve itself - Richard Cornelius Suwandi
 
-* Gödel machine
+Gödel machine
 
-* Darwin machine
+Darwin machine
 
 ---
