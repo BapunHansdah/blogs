@@ -12,13 +12,13 @@ At the heart of Google's announcements was the Gemini AI model. The introduction
 
 Gemini's integration extends across Google's services:
 
-* **Gmail**: AI-generated summaries and suggested replies enhance email management.
+**Gmail**: AI-generated summaries and suggested replies enhance email management.
 
-* **Google Meet**: Real-time translations and personalized backgrounds powered by AI.
+**Google Meet**: Real-time translations and personalized backgrounds powered by AI.
 
-* **Google Search**: "AI Overviews" provide concise summaries at the top of search results, utilizing data from various Google services.
+**Google Search**: "AI Overviews" provide concise summaries at the top of search results, utilizing data from various Google services.
 
-* **Android Devices**: Gemini Nano, the lightweight version of the model, runs locally on devices, enabling multimodal AI capabilities without relying on cloud processing.
+**Android Devices**: Gemini Nano, the lightweight version of the model, runs locally on devices, enabling multimodal AI capabilities without relying on cloud processing.
 
 ---
 
@@ -26,11 +26,11 @@ Gemini's integration extends across Google's services:
 
 Google announced Android 16, emphasizing AI-driven user interactions and improved device performance. Key features include:
 
-* **Live Updates**: A new class of notification templates that help users keep track of user-initiated journeys for things like rideshares, deliveries, and navigation.
+**Live Updates**: A new class of notification templates that help users keep track of user-initiated journeys for things like rideshares, deliveries, and navigation.
 
-* **Material 3 Expressive**: The latest evolution of Material Design, featuring engaging transitions, animations, and more options for visual customization.
+**Material 3 Expressive**: The latest evolution of Material Design, featuring engaging transitions, animations, and more options for visual customization.
 
-* **Privacy and Security**: Enhanced features to protect user data and provide more control over app permissions.
+**Privacy and Security**: Enhanced features to protect user data and provide more control over app permissions.
 
 Android 16 is expected to reach platform stability before Google I/O 2025, with a full-fledged announcement anticipated.
 
@@ -40,9 +40,9 @@ Android 16 is expected to reach platform stability before Google I/O 2025, with 
 
 Building upon its introduction in 2024, Project Astra aims to integrate AI into various aspects of daily life. The initiative focuses on:
 
-* **Healthcare**: Developing AI systems for accurate and efficient disease diagnosis.
+**Healthcare**: Developing AI systems for accurate and efficient disease diagnosis.
 
-* **Education**: Creating personalized learning experiences by analyzing students' learning styles and adapting curricula accordingly.
+**Education**: Creating personalized learning experiences by analyzing students' learning styles and adapting curricula accordingly.
 
 Google announced partnerships with major institutions to pilot these AI-driven solutions, signaling a significant step toward real-world applications of AI.
 
@@ -68,9 +68,9 @@ Project Moohan, a collaboration between Google and Samsung, is expected to debut
 
 Wear OS 5.1, built on Android 15, brings significant improvements to smartwatches, including:
 
-* **Simplified Sign-In**: Streamlined authentication processes for users.
+**Simplified Sign-In**: Streamlined authentication processes for users.
 
-* **Audio Output**: Enhanced speaker playback capabilities.
+**Audio Output**: Enhanced speaker playback capabilities.
 
 Additionally, Gemini AI integration is expected to enhance functionality, providing more personalized experiences.
 
@@ -82,11 +82,11 @@ Android Auto is also set to benefit from Gemini's capabilities, offering smarter
 
 Google's Workspace suite received several AI-driven updates:
 
-* **Gmail**: AI-generated summaries and suggested replies to streamline email management.
+**Gmail**: AI-generated summaries and suggested replies to streamline email management.
 
-* **Google Meet**: Real-time translations and personalized backgrounds powered by AI.
+**Google Meet**: Real-time translations and personalized backgrounds powered by AI.
 
-* **Google Slides and Sheets**: Automatic table generation and image creation capabilities, enhancing productivity and creativity.
+**Google Slides and Sheets**: Automatic table generation and image creation capabilities, enhancing productivity and creativity.
 
 ---
 
@@ -94,9 +94,9 @@ Google's Workspace suite received several AI-driven updates:
 
 Coinciding with its inaugural Scams Summit, Google released an updated fraud advisory highlighting common scams, such as fraudulent customer support impersonations and deceptive messages. To combat these threats, Google introduced several security enhancements:
 
-* **Chrome**: Integration of Gemini Nano to detect and block scam attempts more effectively.
+**Chrome**: Integration of Gemini Nano to detect and block scam attempts more effectively.
 
-* **Messages App**: Real-time detection capabilities to alert users about suspicious texts.
+**Messages App**: Real-time detection capabilities to alert users about suspicious texts.
 
 These advancements are part of Google's broader effort to improve user safety and limit exposure to fraudulent online activities.
 
