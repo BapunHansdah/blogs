@@ -1,7 +1,7 @@
 ---
 title: "Google I/O 2025: A Deep Dive into Google's AI-Driven Future"
 description: "Google I/O 2025, held on May 20-21, showcased the tech giant's ambitious strides in artificial intelligence, mobile platforms, and immersive technologies."
-date: "2025-06-04"
+date: "2025-05-25"
 author: "Unifill AI"
 tags: ["AI", "Google I/O", "Technology", "Innovation", "Future"]
 ---

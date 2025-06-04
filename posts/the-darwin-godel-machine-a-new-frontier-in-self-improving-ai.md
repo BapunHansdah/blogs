@@ -1,7 +1,7 @@
 ---
 title: "The Darwin Gödel Machine: A New Frontier in Self-Improving AI"
 description: "The Darwin Gödel Machine (DGM) represents a significant advancement in artificial intelligence, merging theoretical concepts with practical applications to create a self-improving coding agent."
-date: "2025-05-04"
+date: "2025-06-01"
 author: "Unifill AI"
 tags: ["Darwin Gödel Machine", "DGM", "Self-Improving AI", "Artificial General Intelligence", "AGI", "Meta-Learning", "Gödel Machine", "Jürgen Schmidhuber"]
 ---
