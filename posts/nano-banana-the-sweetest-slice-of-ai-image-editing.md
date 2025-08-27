@@ -56,13 +56,11 @@ But some caution that cohesion can drop after too many edits, and creativity may
 
 ## TL;DR: Nano Banana at a Glance
 
-| Feature            | Description |
-|--------------------|-------------|
-| **What**           | Google’s Gemini 2.5 Flash Image AI (Nano Banana) |
-| **Why It’s Cool**  | Natural-language editing, realism, fast, consistent |
-| **Where to Use**   | Gemini App, Gemini API, Google AI Studio, Vertex AI |
-| **Transparency**   | Visible + invisible watermarks |
-| **Caveats**        | Cohesion loss after many edits; creativity sometimes limited |
+**What:** Google’s Gemini 2.5 Flash Image AI (Nano Banana)  
+**Why It’s Cool:** Natural-language editing, realism, fast, consistent  
+**Where to Use:** Gemini App, Gemini API, Google AI Studio, Vertex AI  
+**Transparency:** Visible + invisible watermarks  
+**Caveats:** Cohesion loss after many edits; creativity sometimes limited  
 
 ---
 
