@@ -2,17 +2,17 @@
 title: 'Nano Banana: The Sweetest Slice of AI Image Editing'
 description: >-
  Google’s Gemini 2.5 Flash Image (Nano Banana) brings character consistency, world knowledge, and creative editing in seconds.
-date: '2025-08-19'
+date: '2025-08-27'
 author: Unifill AI
 tags:
-  - AI"
-  - '"Nano Banana"'
-  - '" Gemini 2.5"'
-  - '"AI image editing"'
-  - '"DeepMind"'
-  - '"photo editing"'
-  - '"image generation"'
-  - '"AI creativity'
+  - AI
+  - Nano Banana
+  - Gemini 2.5
+  - AI image editing
+  - DeepMind
+  - photo editing
+  - image generation
+  - AI creativity
 ---
 
 
