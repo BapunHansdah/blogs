@@ -1,4 +1,10 @@
-# Influencer Marketing 2025: Key Trends and Insights
+---
+title: "Influencer Marketing 2025: Key Trends and Insights"
+description: "Explore the future of influencer marketing in 2025, including micro and nano influencers, AI integration, B2B partnerships, and always-on marketing strategies."
+date: "2025-08-28"
+author: "ShotzSpot"
+tags: ["Influencer Marketing", "2025 Trends", "Influencer Marketing Insights"]
+---
 
 ## Executive Summary
 
